@@ -1,9 +1,9 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Tests\Feature;
+namespace Hesete\LaravelPackageMaker\Tests\Feature;
 
-use Naoray\LaravelPackageMaker\Tests\TestCase;
-use Naoray\LaravelPackageMaker\Traits\InteractsWithTerminal;
+use Hesete\LaravelPackageMaker\Tests\TestCase;
+use Hesete\LaravelPackageMaker\Traits\InteractsWithTerminal;
 
 class ReplaceTest extends TestCase
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Commands\Foundation;
+namespace Hesete\LaravelPackageMaker\Commands\Foundation;
 
 use Illuminate\Foundation\Console\PolicyMakeCommand as MakePolicy;
 use Illuminate\Support\Str;
-use Naoray\LaravelPackageMaker\Traits\CreatesPackageStubs;
-use Naoray\LaravelPackageMaker\Traits\HasNameInput;
+use Hesete\LaravelPackageMaker\Traits\CreatesPackageStubs;
+use Hesete\LaravelPackageMaker\Traits\HasNameInput;
 
 class PolicyMakeCommand extends MakePolicy
 {

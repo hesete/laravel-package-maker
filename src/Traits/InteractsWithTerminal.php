@@ -1,6 +1,6 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Traits;
+namespace Hesete\LaravelPackageMaker\Traits;
 
 use Symfony\Component\Process\Process;
 

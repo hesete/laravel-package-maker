@@ -1,7 +1,7 @@
 # laravel-package-maker
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/naoray/laravel-package-maker.svg?style=flat-square)](https://packagist.org/packages/naoray/laravel-package-maker)
+[![Total Downloads](https://img.shields.io/packagist/dt/Hesete/laravel-package-maker.svg?style=flat-square)](https://packagist.org/packages/Hesete/laravel-package-maker)
 
 All the `make` commands you use in your daily Laravel app development workflow but for packages! This package was created solely for the purpose to make package development as fast and easy as possible. Creating a new package only takes one command (`make:package`) and you will end up with the following file structure:
 
@@ -24,7 +24,7 @@ All the `make` commands you use in your daily Laravel app development workflow b
 ```
 
 ## Install
-`composer require naoray/laravel-package-maker --dev`
+`composer require Hesete/laravel-package-maker --dev`
 
 ## Usage
 - [laravel-package-maker](#laravel-package-maker)
@@ -205,8 +205,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
-- [Krishan König](https://github.com/naoray)
-- [All Contributors](https://github.com/naoray/laravel-package-maker/contributors)
+- [Krishan König](https://github.com/Hesete)
+- [All Contributors](https://github.com/Hesete/laravel-package-maker/contributors)
 
 ## Security
 If you discover any security-related issues, please email krishan.koenig@googlemail.com instead of using the issue tracker.

@@ -1,6 +1,6 @@
 <?php
 
-namespace Naoray\LaravelPackageMaker\Traits;
+namespace Hesete\LaravelPackageMaker\Traits;
 
 use Illuminate\Support\Str;
 use Symfony\Component\Console\Input\InputOption;
