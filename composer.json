@@ -2,7 +2,7 @@
   "name": "hesete/laravel-package-maker",
   "version":"1.0.0",
   "description": "Get a package skeleton and all other `make` commands from laravel base for package development.",
-  "type": "package",
+  "type": "library",
   "license": "MIT",
   "keywords": [
     "laravel"
@@ -20,13 +20,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Naoray\\LaravelPackageMaker\\": "./src"
+      "Hesete\\LaravelPackageMaker\\": "./src"
     }
   },
   "minimum-stability": "dev",
   "autoload-dev": {
     "psr-4": {
-      "Naoray\\LaravelPackageMaker\\Tests\\": "tests"
+      "Hesete\\LaravelPackageMaker\\Tests\\": "tests"
     }
   },
   "scripts": {
@@ -35,7 +35,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Naoray\\LaravelPackageMaker\\LaravelPackageMakerServiceProvider"
+        "Hesete\\LaravelPackageMaker\\LaravelPackageMakerServiceProvider"
       ]
     }
   },
